@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://bookrec-abbbb-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">471141870423</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7KAEji13O9KDfCeXTLbNLgY_5qy9vcyo</string>
+    <string name="google_app_id" translatable="false">1:471141870423:android:eb5db6a7e55df2e0826c12</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7KAEji13O9KDfCeXTLbNLgY_5qy9vcyo</string>
+    <string name="google_storage_bucket" translatable="false">bookrec-abbbb.appspot.com</string>
+    <string name="project_id" translatable="false">bookrec-abbbb</string>
+</resources>
